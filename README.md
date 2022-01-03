@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #My Portfolio
 
 This is a portfolio that I have created to showcase my skills and talents to potential employers.
