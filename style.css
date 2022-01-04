@@ -1,12 +1,36 @@
 body {
-    background-color: rgb(28, 30, 31); background-image: url("blackkeyboard.jpg")
-
+    background-color:black; color: white; font-family:cursive; font-family: Gill Sans;
 }
 
 h1 {
-    color:floralwhite; text-align: center;
+    text-align: center;
 }
 
 h2 {
-    color: white; text-align: center; margin-bottom: 100px;
+    text-align: center; margin-bottom: 10px;
+}
+
+p  {text-align: center; font-size: 50px;
+
+}
+
+.flex-container {
+    display: flex;
+    background-color: grey;
+    align-content: center;
+    
+    
+  }
+
+  .flex-container > div {
+    background-color: #0a0a0a;
+    border: 1px dotted white;
+    margin: 0px;
+    padding: 0px;
+    font-size: 15px;
+    width: 500px;
+    height: 20px;
+    text-align: center;
+    align-items: space around;
+
 }
