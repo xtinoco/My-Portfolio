@@ -7,10 +7,11 @@ h1 {
 }
 
 h2 {
-    text-align: center; margin-bottom: 10px;
+    text-align: center; margin-bottom:0%
+
 }
 
-p  {text-align: center; font-size: 50px;
+p  {text-align: center; font-size: 20px;
 
 }
 
@@ -18,13 +19,11 @@ p  {text-align: center; font-size: 50px;
     display: flex;
     background-color: grey;
     align-content: center;
-    
-    
-  }
 
-  .flex-container > div {
+}
+
+.flex-container > div {
     background-color: #0a0a0a;
-    border: 1px dotted white;
     margin: 0px;
     padding: 0px;
     font-size: 15px;
@@ -32,5 +31,5 @@ p  {text-align: center; font-size: 50px;
     height: 20px;
     text-align: center;
     align-items: space around;
-
 }
+
