@@ -9,7 +9,7 @@ In this portfolio I sample some of my best work. It also includes:
 * My contact info
 
 Presentation objectives:
-1. Fully functioning hyperlinks
+1. Fully functioning links
 2. Interactive images
 3. Responsive layout that adapts to different viewports
 
