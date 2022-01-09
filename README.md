@@ -16,3 +16,6 @@ Presentation objectives:
 ---     
 
 link to website- https://xtinoco.github.io/My-Portfolio/
+
+![Screenshot](Screenshot.png")
+
